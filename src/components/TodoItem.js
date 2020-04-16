@@ -1,14 +1,24 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 const TodoItem = (props) => {
+  //componentWillUnmount() {
+  // alert('Item about to be deleted!');
+  //}
+
+  //  render() {
   const completedStyle = {
     fontStyle: 'italic',
     color: '#d35e0f',
     opacity: 0.4,
     textDecoration: 'line-through',
   };
-
   const { completed, id, title } = props.todo;
+
+  useEffect(() => {
+    return () => {
+      alert('Item about to be deleted!');
+    };
+  }, []);
 
   return (
     <li className="todo-item">
@@ -22,5 +32,6 @@ const TodoItem = (props) => {
     </li>
   );
 };
+//}
 
 export default TodoItem;
