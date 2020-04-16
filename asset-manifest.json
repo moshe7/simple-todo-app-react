@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/simple-todo-app-react/static/css/main.26bdc978.chunk.css",
-    "main.js": "/simple-todo-app-react/static/js/main.fefaacc9.chunk.js",
-    "main.js.map": "/simple-todo-app-react/static/js/main.fefaacc9.chunk.js.map",
+    "main.js": "/simple-todo-app-react/static/js/main.4713334d.chunk.js",
+    "main.js.map": "/simple-todo-app-react/static/js/main.4713334d.chunk.js.map",
     "runtime-main.js": "/simple-todo-app-react/static/js/runtime-main.f5242ebe.js",
     "runtime-main.js.map": "/simple-todo-app-react/static/js/runtime-main.f5242ebe.js.map",
-    "static/js/2.d3cdb963.chunk.js": "/simple-todo-app-react/static/js/2.d3cdb963.chunk.js",
-    "static/js/2.d3cdb963.chunk.js.map": "/simple-todo-app-react/static/js/2.d3cdb963.chunk.js.map",
+    "static/js/2.e787167c.chunk.js": "/simple-todo-app-react/static/js/2.e787167c.chunk.js",
+    "static/js/2.e787167c.chunk.js.map": "/simple-todo-app-react/static/js/2.e787167c.chunk.js.map",
     "index.html": "/simple-todo-app-react/index.html",
-    "precache-manifest.bcc4902d6f69cb5f7ba0921ec87be5ee.js": "/simple-todo-app-react/precache-manifest.bcc4902d6f69cb5f7ba0921ec87be5ee.js",
+    "precache-manifest.2bbf1ec3e8fd5b9c14cb54ab4f73e8a9.js": "/simple-todo-app-react/precache-manifest.2bbf1ec3e8fd5b9c14cb54ab4f73e8a9.js",
     "service-worker.js": "/simple-todo-app-react/service-worker.js",
     "static/css/main.26bdc978.chunk.css.map": "/simple-todo-app-react/static/css/main.26bdc978.chunk.css.map",
-    "static/js/2.d3cdb963.chunk.js.LICENSE.txt": "/simple-todo-app-react/static/js/2.d3cdb963.chunk.js.LICENSE.txt"
+    "static/js/2.e787167c.chunk.js.LICENSE.txt": "/simple-todo-app-react/static/js/2.e787167c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f5242ebe.js",
-    "static/js/2.d3cdb963.chunk.js",
+    "static/js/2.e787167c.chunk.js",
     "static/css/main.26bdc978.chunk.css",
-    "static/js/main.fefaacc9.chunk.js"
+    "static/js/main.4713334d.chunk.js"
   ]
 }
